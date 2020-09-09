@@ -240,6 +240,14 @@
       "short_name": "BANCO POPULAR"
   },
   {
+    "bank_code": "0226",
+    "bic": "BSCHESMM",
+    "country_code": "ES",
+    "name": "BANCO POPULAR ESPAÑOL",
+    "primary": true,
+    "short_name": "BANCO POPULAR ESPAÑOL"
+  },
+  {
       "bank_code": "0024",
       "bic": "POPUESMMXXX",
       "country_code": "ES",
