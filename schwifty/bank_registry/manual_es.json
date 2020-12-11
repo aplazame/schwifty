@@ -1574,5 +1574,14 @@
     "name": "BANCO ESPAÑOL DE CREDITO, S.A.",
     "primary": true,
     "short_name": "BANCO ESPAÑOL DE CREDITO"
+  },
+  {
+    "bank_code": "1563",
+    "bic": "NTSBESM1",
+    "country_code": "ES",
+    "name": "N26 BANK",
+    "primary": true,
+    "short_name": "N26 BANK"
   }
+ 
 ]
