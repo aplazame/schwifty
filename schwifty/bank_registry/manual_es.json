@@ -1582,6 +1582,14 @@
     "name": "N26 BANK",
     "primary": true,
     "short_name": "N26 BANK"
+  },
+  {
+    "bank_code": "6888",
+    "bic": "QNTOESB2XXX",
+    "country_code": "ES",
+    "name": "OLINDA SAS",
+    "primary": true,
+    "short_name": "OLINDA SAS"
   }
  
 ]
