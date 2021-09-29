@@ -1599,4 +1599,13 @@
     "primary": true,
     "short_name": "CAJA RURAL ARAGON"
   }
+  ,
+  {
+    "bank_code": "3121",
+    "bic": "CCRIES2A121",
+    "country_code": "ES",
+    "name": "CAJA R. DE CHESTE, S.C.C.",
+    "primary": true,
+    "short_name": "CAJAMAR"
+  }
 ]
