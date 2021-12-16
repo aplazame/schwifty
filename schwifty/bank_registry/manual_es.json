@@ -1608,4 +1608,13 @@
     "primary": true,
     "short_name": "CAJAMAR"
   }
+  ,
+  {
+    "bank_code": "6713",
+    "bic": "PFSSESM1",
+    "country_code": "ES",
+    "name": "PREPAID FINANCIAL SERVICES LIMITED, S.E",
+    "primary": true,
+    "short_name": "PFS"
+  }
 ]
