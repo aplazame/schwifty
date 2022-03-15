@@ -1,0 +1,10 @@
+{
+    {
+        "bank_code": "BACA",
+        "bic": "BACAADAD",
+        "country_code": "AD",
+        "name": "ANDORRA BANC AGRICOL REIG S.A.",
+        "primary": true,
+        "short_name": "andbanc Grup Agr"
+      }
+}
