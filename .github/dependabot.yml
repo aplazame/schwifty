@@ -16,7 +16,7 @@ updates:
   labels:
     - dependabot
   reviewers:
-    - "aplazame/squad_core-backend/reviewers"
+    - "aplazame/squad_core-backend-reviewers"
 
 - package-ecosystem: github-actions
   directory: "/.github/workflows"
@@ -34,4 +34,4 @@ updates:
   labels:
     - dependabot
   reviewers:
-    - "aplazame/squad_core-backend/reviewers"
+    - "aplazame/squad_core-backend-reviewers"
