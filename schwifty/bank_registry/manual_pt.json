@@ -1,0 +1,386 @@
+[
+  {
+    "bank_code": "0170",
+    "bic": "CAGLPTPLXXX",
+    "country_code": "PT",
+    "name": "ABANCA CORPORACION BANCARIA",
+    "primary": true,
+    "short_name": "ABANCA CORPORACION BANCARIA"
+  },
+  {
+    "bank_code": "0781",
+    "bic": "IGCPPTPLXXX",
+    "country_code": "PT",
+    "name": "AGENCIA GESTAO DA TESOURARIA",
+    "primary": true,
+    "short_name": "AGENCIA GESTAO DA TESOURARIA"
+  },
+  {
+    "bank_code": "0023",
+    "bic": "ACTVPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO ACTIVOBANK SA",
+    "primary": true,
+    "short_name": "BANCO ACTIVOBANK SA"
+  },
+  {
+    "bank_code": "0189",
+    "bic": "BAPAPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO ATLANTICO EUROPA SA",
+    "primary": true,
+    "short_name": "BANCO ATLANTICO EUROPA SA"
+  },
+  {
+    "bank_code": "0008",
+    "bic": "BAIPPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO BAI EUROPA SA",
+    "primary": true,
+    "short_name": "BANCO BAI EUROPA SA"
+  },
+  {
+    "bank_code": "0079",
+    "bic": "BPNPPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO BIC PORTUGUES SA",
+    "primary": true,
+    "short_name": "BANCO BIC PORTUGUES SA"
+  },
+  {
+    "bank_code": "0019",
+    "bic": "BBVAPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO BILBAO VIZCAYA ARGENTARIA SA SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "BANCO BILBAO VIZCAYA ARGENTARIA SA SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0010",
+    "bic": "BBPIPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO BPI SA",
+    "primary": true,
+    "short_name": "BANCO BPI SA"
+  },
+  {
+    "bank_code": "0033",
+    "bic": "BCOMPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO COMERCIAL PORTUGUES",
+    "primary": true,
+    "short_name": "BANCO COMERCIAL PORTUGUES"
+  },
+  {
+    "bank_code": "0193",
+    "bic": "CTTVPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO CTT SA",
+    "primary": true,
+    "short_name": "BANCO CTT SA"
+  },
+  {
+    "bank_code": "0061",
+    "bic": "BDIGPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO DE INVESTIMENTO GLOBAL SA",
+    "primary": true,
+    "short_name": "BANCO DE INVESTIMENTO GLOBAL SA"
+  },
+  {
+    "bank_code": "0001",
+    "bic": "BGALPTTGXXX",
+    "country_code": "PT",
+    "name": "BANCO DE PORTUGAL",
+    "primary": true,
+    "short_name": "BANCO DE PORTUGAL"
+  },
+  {
+    "bank_code": "0275",
+    "bic": "BSABPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO DE SABADELL SA SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "BANCO DE SABADELL SA SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0022",
+    "bic": "BRASPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0086",
+    "bic": "EFISPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO EFISA SA",
+    "primary": true,
+    "short_name": "BANCO EFISA SA"
+  },
+  {
+    "bank_code": "0048",
+    "bic": "BFIAPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO FINANTIA SA",
+    "primary": true,
+    "short_name": "BANCO FINANTIA SA"
+  },
+  {
+    "bank_code": "0014",
+    "bic": "IVVSPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO INVEST SA",
+    "primary": true,
+    "short_name": "BANCO INVEST SA"
+  },
+  {
+    "bank_code": "0235",
+    "bic": "BLJCPTPTXXX",
+    "country_code": "PT",
+    "name": "BANCO LJ CARREGOSA SA",
+    "primary": true,
+    "short_name": "BANCO LJ CARREGOSA SA"
+  },
+  {
+    "bank_code": "0064",
+    "bic": "BPGPPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO PORTUGUES DE GESTAO SA",
+    "primary": true,
+    "short_name": "BANCO PORTUGUES DE GESTAO SA"
+  },
+  {
+    "bank_code": "0027",
+    "bic": "BPIPPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO PORTUGUES DE INVESTIMENTO SA",
+    "primary": true,
+    "short_name": "BANCO PORTUGUES DE INVESTIMENTO SA"
+  },
+  {
+    "bank_code": "0018",
+    "bic": "TOTAPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO SANTANDER TOTTA",
+    "primary": true,
+    "short_name": "BANCO SANTANDER TOTTA"
+  },
+  {
+    "bank_code": "0046",
+    "bic": "CRBNPTPLXXX",
+    "country_code": "PT",
+    "name": "BANCO SANTANDER TOTTA SA",
+    "primary": true,
+    "short_name": "BANCO SANTANDER TOTTA SA"
+  },
+  {
+    "bank_code": "0266",
+    "bic": "BKCHPTPLXXX",
+    "country_code": "PT",
+    "name": "BANK OF CHINA (LUXEMBOURG) SA PORTUGAL BRANCH",
+    "primary": true,
+    "short_name": "BANK OF CHINA (LUXEMBOURG) SA PORTUGAL BRANCH"
+  },
+  {
+    "bank_code": "0269",
+    "bic": "BKBKPTPLXXX",
+    "country_code": "PT",
+    "name": "BANKINTER SA-SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "BANKINTER SA-SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0032",
+    "bic": "BARCPTPCXXX",
+    "country_code": "PT",
+    "name": "BARCLAYS BANK IRELAND PLC - SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "BARCLAYS BANK IRELAND PLC - SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0065",
+    "bic": "BESZPTPLXXX",
+    "country_code": "PT",
+    "name": "BEST-BANCO ELECTRONICO DE SERVICO TOTAL SA",
+    "primary": true,
+    "short_name": "BEST-BANCO ELECTRONICO DE SERVICO TOTAL SA"
+  },
+  {
+    "bank_code": "0063",
+    "bic": "BNFIPTPLXXX",
+    "country_code": "PT",
+    "name": "BISON BANK SA",
+    "primary": true,
+    "short_name": "BISON BANK SA"
+  },
+  {
+    "bank_code": "0191",
+    "bic": "BNICPTPLXXX",
+    "country_code": "PT",
+    "name": "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA) SA",
+    "primary": true,
+    "short_name": "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA) SA"
+  },
+  {
+    "bank_code": "0034",
+    "bic": "BNPAPTPLXXX",
+    "country_code": "PT",
+    "name": "BNP PARIBAS",
+    "primary": true,
+    "short_name": "BNP PARIBAS"
+  },
+  {
+    "bank_code": "0238",
+    "bic": "BNPAPTPLLIS",
+    "country_code": "PT",
+    "name": "BNP PARIBAS PORTUGAL",
+    "primary": true,
+    "short_name": "BNP PARIBAS PORTUGAL"
+  },
+  {
+    "bank_code": "0025",
+    "bic": "CXBIPTPLXXX",
+    "country_code": "PT",
+    "name": "CAIXA BANCO DE INVESTIMENTO SA",
+    "primary": true,
+    "short_name": "CAIXA BANCO DE INVESTIMENTO SA"
+  },
+  {
+    "bank_code": "5020",
+    "bic": "CCCMPTPLXXX",
+    "country_code": "PT",
+    "name": "CAIXA CENTRAL CREDITO AGRICOLA MUTUO",
+    "primary": true,
+    "short_name": "CAIXA CENTRAL CREDITO AGRICOLA MUTUO"
+  },
+  {
+    "bank_code": "5180",
+    "bic": "CDCTPTP2XXX",
+    "country_code": "PT",
+    "name": "CAIXA DE CREDITO DE LEIRIA",
+    "primary": true,
+    "short_name": "CAIXA DE CREDITO DE LEIRIA"
+  },
+  {
+    "bank_code": "0059",
+    "bic": "CEMAPTP2XXX",
+    "country_code": "PT",
+    "name": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO",
+    "primary": true,
+    "short_name": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO"
+  },
+  {
+    "bank_code": "0036",
+    "bic": "MPIOPTPLXXX",
+    "country_code": "PT",
+    "name": "CAIXA ECONOMICA MONTEPIO GERAL CAIXA ECONOMICA BANCARIA SA",
+    "primary": true,
+    "short_name": "CAIXA ECONOMICA MONTEPIO GERAL CAIXA ECONOMICA BANCARIA SA"
+  },
+  {
+    "bank_code": "0035",
+    "bic": "CGDIPTPLXXX",
+    "country_code": "PT",
+    "name": "CAIXA GERAL DE DEPOSITOS",
+    "primary": true,
+    "short_name": "CAIXA GERAL DE DEPOSITOS"
+  },
+  {
+    "bank_code": "0169",
+    "bic": "CITIPTPXXXX",
+    "country_code": "PT",
+    "name": "CITIBANK EUROPE PLC PORTUGAL BRANCH",
+    "primary": true,
+    "short_name": "CITIBANK EUROPE PLC PORTUGAL BRANCH"
+  },
+  {
+    "bank_code": "0043",
+    "bic": "DEUTPTPLXXX",
+    "country_code": "PT",
+    "name": "DEUTSCHE BANK AG PORTUGAL BRANCH",
+    "primary": true,
+    "short_name": "DEUTSCHE BANK AG PORTUGAL BRANCH"
+  },
+  {
+    "bank_code": "0173",
+    "bic": "PRIBPTPXXXX",
+    "country_code": "PT",
+    "name": "EDMOND DE ROTHSCHILD EUROPE SUCURSAL PORTUGUESA",
+    "primary": true,
+    "short_name": "EDMOND DE ROTHSCHILD EUROPE SUCURSAL PORTUGUESA"
+  },
+  {
+    "bank_code": "0076",
+    "bic": "FBCOPTPPXXX",
+    "country_code": "PT",
+    "name": "FINIBANCO SA",
+    "primary": true,
+    "short_name": "FINIBANCO SA"
+  },
+  {
+    "bank_code": "0236",
+    "bic": "FBCOPTPPXXX",
+    "country_code": "PT",
+    "name": "MONTEPIO HOLDING",
+    "primary": true,
+    "short_name": "MONTEPIO HOLDING"
+  },
+  {
+    "bank_code": "0047",
+    "bic": "ESSIPTPLXXX",
+    "country_code": "PT",
+    "name": "HAITONG BANK SA",
+    "primary": true,
+    "short_name": "HAITONG BANK SA"
+  },
+  {
+    "bank_code": "0500",
+    "bic": "BBRUPTPLXXX",
+    "country_code": "PT",
+    "name": "ING BANK NV SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "ING BANK NV SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "7675",
+    "bic": "IPAGPTPLXXX",
+    "country_code": "PT",
+    "name": "IPAGOO LLP PORTUGAL BRANCH",
+    "primary": true,
+    "short_name": "IPAGOO LLP PORTUGAL BRANCH"
+  },
+  {
+    "bank_code": "0085",
+    "bic": "ITAUPTPLXXX",
+    "country_code": "PT",
+    "name": "ITAU BBA INTERNATIONAL LIMITED SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "ITAU BBA INTERNATIONAL LIMITED SUCURSAL EM PORTUGAL"
+  },
+  {
+    "bank_code": "0160",
+    "bic": "BESAPTPAXXX",
+    "country_code": "PT",
+    "name": "NOVO BANCO DOS ACORES SA",
+    "primary": true,
+    "short_name": "NOVO BANCO DOS ACORES SA"
+  },
+  {
+    "bank_code": "0007",
+    "bic": "BESCPTPLXXX",
+    "country_code": "PT",
+    "name": "NOVO BANCO SA",
+    "primary": true,
+    "short_name": "NOVO BANCO SA"
+  },
+  {
+    "bank_code": "0272",
+    "bic": "WZNKPTPLXXX",
+    "country_code": "PT",
+    "name": "WIZINK BANK SAU SUCURSAL EM PORTUGAL",
+    "primary": true,
+    "short_name": "WIZINK BANK SAU SUCURSAL EM PORTUGAL"
+  }
+]
