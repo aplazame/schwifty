@@ -1598,8 +1598,7 @@
     "name": "CAJA RURAL DE ARAGON SOC. COOP. DE CREDITO",
     "primary": true,
     "short_name": "CAJA RURAL ARAGON"
-  }
-  ,
+  },
   {
     "bank_code": "3121",
     "bic": "CCRIES2A121",
@@ -1607,8 +1606,7 @@
     "name": "CAJA R. DE CHESTE, S.C.C.",
     "primary": true,
     "short_name": "CAJAMAR"
-  }
-  ,
+  },
   {
     "bank_code": "6713",
     "bic": "PFSSESM1",
@@ -1616,8 +1614,7 @@
     "name": "PREPAID FINANCIAL SERVICES LIMITED, S.E",
     "primary": true,
     "short_name": "PFS"
-  }
-  ,
+  },
   {
     "bank_code": "1583",
     "bic": "REVOESM2XXX",
