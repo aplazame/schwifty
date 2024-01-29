@@ -1617,4 +1617,13 @@
     "primary": true,
     "short_name": "PFS"
   }
+  ,
+  {
+    "bank_code": "1583",
+    "bic": "REVOESM2XXX",
+    "country_code": "ES",
+    "name": "REVOLUT BANK UAB",
+    "primary": true,
+    "short_name": "REVOLUT BANK"
+  }
 ]
