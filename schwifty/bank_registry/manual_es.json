@@ -1622,5 +1622,13 @@
     "name": "REVOLUT BANK UAB",
     "primary": true,
     "short_name": "REVOLUT BANK"
+  },
+  {
+    "bank_code": "0162",
+    "bic": "MIDLESMMXXX",
+    "country_code": "ES",
+    "name": "HSBC BANK PLC, S.E.",
+    "primary": true,
+    "short_name": "HSBC BANK SPAIN"
   }
 ]
