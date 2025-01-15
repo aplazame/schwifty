@@ -2267,6 +2267,38 @@
     "country_code": "SI",
     "primary": true,
     "bic": "LJBASI2XXXX",
+    "bank_code": "02184",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
+    "bank_code": "02185",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
+    "bank_code": "02186",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
+    "bank_code": "02187",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
     "bank_code": "02219",
     "name": "NLB D.D.",
     "short_name": "NLB D.D."
@@ -3091,6 +3123,14 @@
     "country_code": "SI",
     "primary": true,
     "bic": "LJBASI2XXXX",
+    "bank_code": "02438",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
     "bank_code": "02450",
     "name": "NLB D.D.",
     "short_name": "NLB D.D."
@@ -3379,6 +3419,14 @@
     "country_code": "SI",
     "primary": true,
     "bic": "LJBASI2XXXX",
+    "bank_code": "02756",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
     "bank_code": "02796",
     "name": "NLB D.D.",
     "short_name": "NLB D.D."
@@ -3628,6 +3676,14 @@
     "primary": true,
     "bic": "LJBASI2XXXX",
     "bank_code": "02909",
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "LJBASI2XXXX",
+    "bank_code": "02910",
     "name": "NLB D.D.",
     "short_name": "NLB D.D."
   },
@@ -4276,8 +4332,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03105",
-    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA"
+    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA CENTER",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA CENTER"
   },
   {
     "country_code": "SI",
@@ -4292,8 +4348,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03107",
-    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA \u00c8RNU\u00c8E",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA \u00c8RNU\u00c8E"
+    "name": "SKB BANKA D.D. POSLOVALNICA TRZIN PIRAMIDA",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA TRZIN PIRAMIDA"
   },
   {
     "country_code": "SI",
@@ -4348,8 +4404,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03114",
-    "name": "SKB BANKA D.D. POSLOVALNICA RIBNICA",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA RIBNICA"
+    "name": "SKB BANKA D.D. POSLOVALNICA KO\u00c8EVJE",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA KO\u00c8EVJE"
   },
   {
     "country_code": "SI",
@@ -4500,8 +4556,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03134",
-    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA BE\u008eIGRAJSKI DVOR",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA BE\u008eIGRAJSKI DVOR"
+    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA ZUPAN\u00c8I\u00c8EVA JAMA",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA ZUPAN\u00c8I\u00c8EVA JAMA"
   },
   {
     "country_code": "SI",
@@ -4596,8 +4652,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03156",
-    "name": "SKB BANKA D.D. POSLOVALNICA NOVO MESTO II",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA NOVO MESTO II"
+    "name": "SKB BANKA D.D. POSLOVALNICA NOVO MESTO",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA NOVO MESTO"
   },
   {
     "country_code": "SI",
@@ -4620,8 +4676,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03160",
-    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8 INTERSPAR",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8 INTERSPAR"
+    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8"
   },
   {
     "country_code": "SI",
@@ -4636,8 +4692,8 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03162",
-    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8 INTERSPAR",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8 INTERSPAR"
+    "name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA LJUBLJANA VI\u00c8"
   },
   {
     "country_code": "SI",
@@ -4652,8 +4708,16 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03165",
-    "name": "SKB BANKA D.D. POSLOVALNICA CELJE II",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA CELJE II"
+    "name": "SKB BANKA D.D. POSLOVALNICA CELJE",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA CELJE"
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "SKBASI2XXXX",
+    "bank_code": "03168",
+    "name": "SKB BANKA D.D.",
+    "short_name": "SKB BANKA D.D."
   },
   {
     "country_code": "SI",
@@ -4708,16 +4772,16 @@
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03178",
-    "name": "SKB BANKA D.D. POSLOVALNICA KRANJSKA GORA",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA KRANJSKA GORA"
+    "name": "SKB BANKA D.D. POSLOVALNICA JESENICE",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA JESENICE"
   },
   {
     "country_code": "SI",
     "primary": true,
     "bic": "SKBASI2XXXX",
     "bank_code": "03179",
-    "name": "SKB BANKA D.D. POSLOVALNICA SE\u008eANA",
-    "short_name": "SKB BANKA D.D. POSLOVALNICA SE\u008eANA"
+    "name": "SKB BANKA D.D. POSLOVALNICA POSTOJNA",
+    "short_name": "SKB BANKA D.D. POSLOVALNICA POSTOJNA"
   },
   {
     "country_code": "SI",
@@ -5890,314 +5954,10 @@
   {
     "country_code": "SI",
     "primary": true,
-    "bic": "ABANSI2XXXX",
+    "bic": "KBMASI2XXXX",
     "bank_code": "05100",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05200",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05300",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05400",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05403",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05500",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05800",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05901",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "05902",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06000",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06369",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06370",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06371",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06375",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06376",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06377",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06378",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06381",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06382",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06384",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06385",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06389",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06390",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06391",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06393",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06395",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06399",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06420",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06581",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06585",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06587",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06588",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06803",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06804",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06806",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06807",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06808",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06811",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
-  },
-  {
-    "country_code": "SI",
-    "primary": true,
-    "bic": "ABANSI2XXXX",
-    "bank_code": "06814",
-    "name": "ABANKA D.D.",
-    "short_name": "ABANKA D.D."
+    "name": "NOVA KBM D.D.",
+    "short_name": "NOVA KBM D.D."
   },
   {
     "country_code": "SI",
@@ -6786,18 +6546,18 @@
   {
     "country_code": "SI",
     "primary": true,
-    "bic": "SABRSI2XXXX",
+    "bic": "LJBASI2XXXX",
     "bank_code": "30000",
-    "name": "SBERBANK BANKA D.D.",
-    "short_name": "SBERBANK BANKA D.D."
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
   },
   {
     "country_code": "SI",
     "primary": true,
-    "bic": "SABRSI2XXXX",
+    "bic": "LJBASI2XXXX",
     "bank_code": "30909",
-    "name": "SBERBANK BANKA D.D.",
-    "short_name": "SBERBANK BANKA D.D."
+    "name": "NLB D.D.",
+    "short_name": "NLB D.D."
   },
   {
     "country_code": "SI",
@@ -6826,6 +6586,14 @@
   {
     "country_code": "SI",
     "primary": true,
+    "bic": "SIDRSI22XXX",
+    "bank_code": "38000",
+    "name": "SID BANKA D.D.",
+    "short_name": "SID BANKA D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
     "bic": "HLONSI22XXX",
     "bank_code": "60000",
     "name": "HRANILNICA LON D.D.",
@@ -6846,5 +6614,21 @@
     "bank_code": "64000",
     "name": "PRIMORSKA HRANILNICA VIPAVA D.D.",
     "short_name": "PRIMORSKA HRANILNICA VIPAVA D.D."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "KDDSSI22XXX",
+    "bank_code": "79095",
+    "name": "KDD-CENTRALNA KLIRIN\u008aKO DEPOTNA DRU\u008eBA, D.O.O.",
+    "short_name": "KDD-CENTRALNA KLIRIN\u008aKO DEPOTNA DRU\u008eBA, D.O.O."
+  },
+  {
+    "country_code": "SI",
+    "primary": true,
+    "bic": "PWSRSI22XXX",
+    "bank_code": "91002",
+    "name": "PAYWISER DRU\u008eBA ZA IZDAJO ELEKTRONSKEGA DENARJA IN PLA\u00c8ILNE STORITVE, D.O.O.",
+    "short_name": "PAYWISER DRU\u008eBA ZA IZDAJO ELEKTRONSKEGA DENARJA IN PLA\u00c8ILNE STORITVE, D.O.O."
   }
 ]

@@ -4,12 +4,21 @@ docs:
 
 .PHONY: test
 test:
-	@tox -e py27,py37,py38
+	hatch run test
 
 .PHONY: lint
 lint:
-	@tox -e lint
+	hatch run lint:typing
+	hatch run lint:style
+
+.PHONY: lint-docs
+lint-docs:
+	hatch run lint:docs
 
 .PHONY: fmt
 fmt:
-	@tox -e fmt
+	hatch run lint:fmt
+
+.PHONY: build
+build:
+	hatch build
