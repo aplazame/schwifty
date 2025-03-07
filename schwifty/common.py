@@ -1,44 +1,54 @@
+from __future__ import annotations
+
 import re
 from functools import total_ordering
+from typing import Any
+
+
+try:
+    from typing import Self
+except ImportError:
+    from typing_extensions import Self
 
 
 _clean_regex = re.compile(r"\s+")
 
 
 @total_ordering
-class Base(object):
-    def __init__(self, code):
-        self._code = clean(code)
+class Base(str):
+    def __new__(cls: type[Self], value: str, **kwargs: Any) -> Self:
+        return super().__new__(cls, clean(value))
 
-    def __str__(self):
-        return self.compact
+    def __repr__(self) -> str:
+        return f"<{self.__class__.__name__}={self!s}>"
 
-    def __repr__(self):
-        return "<{0}={1!s}>".format(self.__class__.__name__, self)
-
-    def __hash__(self):
+    def __hash__(self) -> int:
         return hash(str(self))
 
-    def __eq__(self, other):
+    def __eq__(self, other: Any) -> bool:
         return str(self) == str(other)
 
-    def __lt__(self, other):
+    def __lt__(self, other: Any) -> bool:
         return str(self) < str(other)
 
-    @property
-    def compact(self):
-        """str: Compact representation of the code."""
-        return self._code
+    def __deepcopy__(self, memo: dict[str, Any] | None = None) -> Self:
+        return self.__class__(str(self))
 
     @property
-    def length(self):
-        """int: Length of the compact code."""
-        return len(self.compact)
+    def compact(self) -> str:
+        """str: Compact representation of the code. It's preferable to call ``str(obj)``"""
+        return str(self)
 
-    def _get_component(self, start, end=None):
-        if start < self.length and (end is None or end <= self.length):
-            return self.compact[start:end] if end else self.compact[start:]
+    @property
+    def length(self) -> int:
+        """int: Length of the compact code. It's preferable to call ``len(obj)``"""
+        return len(self)
+
+    def _get_slice(self, start: int, end: int | None = None) -> str:
+        if start < len(self) and (end is None or end <= len(self)):
+            return self.compact[start:end] if end is not None else self.compact[start:]
+        return ""
 
 
-def clean(string):
-    return _clean_regex.sub("", string).upper()
+def clean(s: str) -> str:
+    return _clean_regex.sub("", s).upper()

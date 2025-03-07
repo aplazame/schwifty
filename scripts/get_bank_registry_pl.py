@@ -1,28 +1,40 @@
+#!/usr/bin/env python
 import json
 
-import requests
+import pandas
 
 
 URL = "https://ewib.nbp.pl/plewibnra?dokNazwa=plewibnra.txt"
 
 
+bic_remapping = {
+    "PLUPLPRXXX": "POLUPLPRXXX",
+    "POLUPLPRXX": "POLUPLPRXXX",
+    "POLUPLPR": "POLUPLPRXXX",
+}
+
+
 def process():
+    datas = pandas.read_csv(URL, encoding="CP852", delimiter="\t", header=None)
+    datas = datas.dropna(how="all")
+    datas.fillna("", inplace=True)
+
     registry = []
-    with requests.get(URL, stream=True) as fp:
-        for row in fp.iter_lines():
-            cells = [cell.strip() for cell in row.decode("latin1").split("\t")]
-            if len(cells) != 32:
-                continue
-            registry.append(
-                {
-                    "country_code": "PL",
-                    "primary": True,
-                    "bic": cells[19].upper(),
-                    "bank_code": cells[4],
-                    "name": cells[1],
-                    "short_name": cells[1],
-                }
-            )
+    for row in datas.itertuples(index=False):
+        bic = str(row[19]).strip().upper()
+        bic_remapping.get(bic, bic)
+        registry.append(
+            {
+                "country_code": "PL",
+                "primary": True,
+                "bic": bic,
+                "bank_code": str(row[4]).strip(),
+                "name": str(row[1]).strip(),
+                "short_name": str(row[1]).strip(),
+            }
+        )
+
+    print(f"Fetched {len(registry)} bank records")
     return registry
 
 
