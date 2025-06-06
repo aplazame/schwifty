@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 import json
+import tempfile
 
+import pandas
 import requests
-import xlrd
 
 
 URL = "https://www.nbb.be/doc/be/be/protocol/r_fulllist_of_codes_current.xlsx"
@@ -12,23 +13,30 @@ def process():
     registry = []
     skip_names = ["NAV", "VRIJ", "NAP", "NYA", "VRIJ - LIBRE", "-"]
 
-    book = xlrd.open_workbook(file_contents=requests.get(URL).content)
-    sheet = book.sheet_by_index(0)
+    r = requests.get(URL)
 
-    for row in list(sheet.get_rows())[2:]:
+    with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
+        fp.write(r.content)
+        datas = pandas.read_excel(fp.name, skiprows=1, sheet_name=0, dtype=str)
+
+    datas.fillna("", inplace=True)
+
+    for row in datas.itertuples(index=False):
         bank_code, bic, name, second_name = row[:4]
-        if bic.value.upper() in skip_names:
+        if str(bic).upper() in skip_names:
             continue
         registry.append(
             {
                 "country_code": "BE",
                 "primary": True,
-                "bic": bic.value.upper().replace(" ", ""),
-                "bank_code": bank_code.value,
-                "name": name.value or second_name.value,
-                "short_name": name.value or second_name.value,
+                "bic": str(bic).upper().replace(" ", ""),
+                "bank_code": bank_code,
+                "name": name or second_name,
+                "short_name": name or second_name,
             }
         )
+
+    print(f"Fetched {len(registry)} bank records")
     return registry
 
 

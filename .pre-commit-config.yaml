@@ -1,15 +1,16 @@
 repos:
-  - repo: https://github.com/asottile/reorder_python_imports
-    rev: v3.12.0
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.9
     hooks:
-      - id: reorder-python-imports
-  - repo: https://github.com/psf/black
-    rev: 24.1.1
+      - id: ruff
+      - id: ruff-format
+  - repo: https://github.com/pycqa/doc8
+    rev: v1.1.2
     hooks:
-      - id: black
-        name: black
-  - repo: https://github.com/PyCQA/flake8
-    rev: 7.0.0
+      - id: doc8
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.11.2
     hooks:
-      - id: flake8
-        additional_dependencies: [flake8-comprehensions, flake8-debugger]
+      - id: mypy
+        additional_dependencies:
+          - types-requests

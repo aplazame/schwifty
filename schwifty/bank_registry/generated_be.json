@@ -2,10 +2,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "BPOTBEB1",
+    "bic": "GEBABEBB",
     "bank_code": "000",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
+    "name": "BNP Paribas Fortis",
+    "short_name": "BNP Paribas Fortis"
   },
   {
     "country_code": "BE",
@@ -810,10 +810,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "NBBEBEBB203",
+    "bic": "NBBEBEBBHCC",
     "bank_code": "101",
-    "name": "Nationale Bank van Belgi\u00eb",
-    "short_name": "Nationale Bank van Belgi\u00eb"
+    "name": "Nationale Bank van Belgi\u00eb (Hoofdkas)",
+    "short_name": "Nationale Bank van Belgi\u00eb (Hoofdkas)"
   },
   {
     "country_code": "BE",
@@ -986,6 +986,14 @@
   {
     "country_code": "BE",
     "primary": true,
+    "bic": "DIGEBEB2",
+    "bank_code": "130",
+    "name": "Digiteal SA",
+    "short_name": "Digiteal SA"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
     "bic": "CTBKBEBX",
     "bank_code": "131",
     "name": "Beobank",
@@ -1122,50 +1130,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "RABOBE23",
-    "bank_code": "172",
-    "name": "Co\u00f6peratieve Rabobank U.A.",
-    "short_name": "Co\u00f6peratieve Rabobank U.A."
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "RABOBE23",
-    "bank_code": "173",
-    "name": "Co\u00f6peratieve Rabobank U.A.",
-    "short_name": "Co\u00f6peratieve Rabobank U.A."
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
     "bic": "BSCHBEBBRET",
     "bank_code": "176",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "COBABEBX",
-    "bank_code": "178",
-    "name": "Commerzbank",
-    "short_name": "Commerzbank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "COBABEBX",
-    "bank_code": "179",
-    "name": "Commerzbank",
-    "short_name": "Commerzbank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "BARBBEBB",
-    "bank_code": "183",
-    "name": "Bank of Baroda",
-    "short_name": "Bank of Baroda"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
@@ -2018,10 +1986,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "BPOTBEB1",
+    "bic": "GEBABEBB",
     "bank_code": "299",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
+    "name": "BNP Paribas Fortis",
+    "short_name": "BNP Paribas Fortis"
   },
   {
     "country_code": "BE",
@@ -3644,8 +3612,8 @@
     "primary": true,
     "bic": "PANXBEB1",
     "bank_code": "504",
-    "name": "PAY-NXT",
-    "short_name": "PAY-NXT"
+    "name": "Unifiedpost Payments",
+    "short_name": "Unifiedpost Payments"
   },
   {
     "country_code": "BE",
@@ -3660,8 +3628,8 @@
     "primary": true,
     "bic": "PARBBEBZMDC",
     "bank_code": "508",
-    "name": "BNP Paribas Securities Services",
-    "short_name": "BNP Paribas Securities Services"
+    "name": "BNP Paribas SA, Belgium Branch \u2013 Securities Services business",
+    "short_name": "BNP Paribas SA, Belgium Branch \u2013 Securities Services business"
   },
   {
     "country_code": "BE",
@@ -3690,7 +3658,7 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "SGPBBE99",
+    "bic": "ABNABE2AIPC",
     "bank_code": "513",
     "name": "ABN AMRO Bank N.V.",
     "short_name": "ABN AMRO Bank N.V."
@@ -3700,8 +3668,8 @@
     "primary": true,
     "bic": "PUILBEBB",
     "bank_code": "514",
-    "name": "Puilaetco Dewaay Private Bankers",
-    "short_name": "Puilaetco Dewaay Private Bankers"
+    "name": "Puilaetco Branch of Quintet Private Bank SA",
+    "short_name": "Puilaetco Branch of Quintet Private Bank SA"
   },
   {
     "country_code": "BE",
@@ -3746,26 +3714,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "FVLBBE2E",
+    "bic": "FVLBBE22",
     "bank_code": "525",
     "name": "F. van Lanschot Bankiers",
     "short_name": "F. van Lanschot Bankiers"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "SHIZBEBB",
-    "bank_code": "530",
-    "name": "Shizuoka Bank (Europe)",
-    "short_name": "Shizuoka Bank (Europe)"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "FBHLBE22",
-    "bank_code": "535",
-    "name": "CREDIT EUROPE BANK NV",
-    "short_name": "CREDIT EUROPE BANK NV"
   },
   {
     "country_code": "BE",
@@ -3796,8 +3748,8 @@
     "primary": true,
     "bic": "CHASBEBX",
     "bank_code": "549",
-    "name": "JP Morgan Chase Bank",
-    "short_name": "JP Morgan Chase Bank"
+    "name": "J.P. Morgan SE -Brussels Branch",
+    "short_name": "J.P. Morgan SE -Brussels Branch"
   },
   {
     "country_code": "BE",
@@ -4084,40 +4036,40 @@
     "primary": true,
     "bic": "BSCHBEBB",
     "bank_code": "590",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "BSCHBEBB",
     "bank_code": "591",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "BSCHBEBB",
     "bank_code": "592",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "BSCHBEBB",
     "bank_code": "593",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "BSCHBEBB",
     "bank_code": "594",
-    "name": "Santander Consumer Bank",
-    "short_name": "Santander Consumer Bank"
+    "name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb",
+    "short_name": "Santander Consumer Finance \u2013 Succursale en Belgique/Bijkantoor in Belgi\u00eb"
   },
   {
     "country_code": "BE",
@@ -4180,8 +4132,8 @@
     "primary": true,
     "bic": "BKCHBEBB",
     "bank_code": "605",
-    "name": "Bank of China (Luxembourg) S.A., Brussels Branch",
-    "short_name": "Bank of China (Luxembourg) S.A., Brussels Branch"
+    "name": "Bank of China (Europe) SA Brussels Branch",
+    "short_name": "Bank of China (Europe) SA Brussels Branch"
   },
   {
     "country_code": "BE",
@@ -4290,14 +4242,6 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "ABNABE2AMYO",
-    "bank_code": "639",
-    "name": "ABN AMRO Bank N.V.",
-    "short_name": "ABN AMRO Bank N.V."
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
     "bic": "ADIABE22",
     "bank_code": "640",
     "name": "KBC Bank N.V. Business Center Diamant",
@@ -4354,6 +4298,22 @@
   {
     "country_code": "BE",
     "primary": true,
+    "bic": "CEPABEB2",
+    "bank_code": "649",
+    "name": "Caisse d'Epargne et de Pr\u00e9voyance Hauts de France",
+    "short_name": "Caisse d'Epargne et de Pr\u00e9voyance Hauts de France"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
+    "bic": "REVOBEB2XXX",
+    "bank_code": "650",
+    "name": "Revolut Bank UAB Belgian branch",
+    "short_name": "Revolut Bank UAB Belgian branch"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
     "bic": "KEYTBEBB",
     "bank_code": "651",
     "name": "Ark\u00e9a Direct Bank (nom commercial / commerci\u00eble naam: Keytrade Bank)",
@@ -4366,6 +4326,14 @@
     "bank_code": "652",
     "name": "ING Belgi\u00eb",
     "short_name": "ING Belgi\u00eb"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
+    "bic": "BARCBEBB",
+    "bank_code": "653",
+    "name": "Barclays Bank Ireland Plc Brussels Branch",
+    "short_name": "Barclays Bank Ireland Plc Brussels Branch"
   },
   {
     "country_code": "BE",
@@ -4468,8 +4436,8 @@
     "primary": true,
     "bic": "CBPXBE99",
     "bank_code": "677",
-    "name": "Compagnie de Banque Priv\u00e9e Quilvest",
-    "short_name": "Compagnie de Banque Priv\u00e9e Quilvest"
+    "name": "Intesa Sanpaolo Wealth Management",
+    "short_name": "Intesa Sanpaolo Wealth Management"
   },
   {
     "country_code": "BE",
@@ -4524,16 +4492,16 @@
     "primary": true,
     "bic": "BOFABE3X",
     "bank_code": "685",
-    "name": "Bank of Amerika Merrill Lynch International DAC - Brussels Branch",
-    "short_name": "Bank of Amerika Merrill Lynch International DAC - Brussels Branch"
+    "name": "Bank of America Europe DAC - Brussels Branch",
+    "short_name": "Bank of America Europe DAC - Brussels Branch"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "BOFABE3X",
     "bank_code": "686",
-    "name": "Bank of Amerika Merrill Lynch International DAC - Brussels Branch",
-    "short_name": "Bank of Amerika Merrill Lynch International DAC - Brussels Branch"
+    "name": "Bank of America Europe DAC - Brussels Branch",
+    "short_name": "Bank of America Europe DAC - Brussels Branch"
   },
   {
     "country_code": "BE",
@@ -4550,6 +4518,14 @@
     "bank_code": "688",
     "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "short_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
+    "bic": "BOFABE3X",
+    "bank_code": "689",
+    "name": "Bank of America Europe DAC - Brussels Branch",
+    "short_name": "Bank of America Europe DAC - Brussels Branch"
   },
   {
     "country_code": "BE",
@@ -4578,90 +4554,90 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "NATXBEB1",
-    "bank_code": "698",
-    "name": "Natixis Bank",
-    "short_name": "Natixis Bank"
+    "bic": "MGTCBEBE",
+    "bank_code": "699",
+    "name": "Euroclear Bank",
+    "short_name": "Euroclear Bank"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "700",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "701",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "702",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "703",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "704",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "705",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "706",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "707",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "708",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "709",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
@@ -4884,200 +4860,200 @@
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "750",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "751",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "752",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "753",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "754",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "755",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "756",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "757",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "758",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "759",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "760",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "761",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "762",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "763",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "764",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "765",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "766",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "767",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "768",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "769",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "770",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "771",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "772",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "773",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "774",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
@@ -5284,136 +5260,136 @@
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "800",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "801",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "802",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "803",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "804",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "805",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "806",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "807",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "808",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "809",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "810",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "811",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "812",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "813",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "814",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "815",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "816",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
@@ -5542,14 +5518,6 @@
     "bank_code": "840",
     "name": "Edmond de Rothschild (Europe)",
     "short_name": "Edmond de Rothschild (Europe)"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "RABOBE22",
-    "bank_code": "844",
-    "name": "Rabobank.be",
-    "short_name": "Rabobank.be"
   },
   {
     "country_code": "BE",
@@ -5826,6 +5794,14 @@
   {
     "country_code": "BE",
     "primary": true,
+    "bic": "TRWIBEB1",
+    "bank_code": "905",
+    "name": "Wise Europe SA",
+    "short_name": "Wise Europe SA"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
     "bic": "CEKVBE88",
     "bank_code": "906",
     "name": "Centrale Kredietverlening (C.K.V.)",
@@ -5852,8 +5828,8 @@
     "primary": true,
     "bic": "TUNZBEB1",
     "bank_code": "911",
-    "name": "Ingenico Financial Solutions",
-    "short_name": "Ingenico Financial Solutions"
+    "name": "Worldline Financial Solutions nv/SA",
+    "short_name": "Worldline Financial Solutions nv/SA"
   },
   {
     "country_code": "BE",
@@ -5876,8 +5852,8 @@
     "primary": true,
     "bic": "OONXBEBB",
     "bank_code": "915",
-    "name": "Oonex",
-    "short_name": "Oonex"
+    "name": "Equals Money Europe SA",
+    "short_name": "Equals Money Europe SA"
   },
   {
     "country_code": "BE",
@@ -5930,7 +5906,7 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "VPAYBE21",
+    "bic": "VPAYBEB1",
     "bank_code": "928",
     "name": "VIVA Payment Services",
     "short_name": "VIVA Payment Services"
@@ -6004,24 +5980,32 @@
     "primary": true,
     "bic": "PUILBEBB",
     "bank_code": "942",
-    "name": "Puilaetco Dewaay Private Bankers",
-    "short_name": "Puilaetco Dewaay Private Bankers"
+    "name": "Puilaetco Branch of Quintet Private Bank SA",
+    "short_name": "Puilaetco Branch of Quintet Private Bank SA"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "JPMGBEBB",
     "bank_code": "945",
-    "name": "J.P. Morgan Bank Luxembourg - Brussels Branch",
-    "short_name": "J.P. Morgan Bank Luxembourg - Brussels Branch"
+    "name": "J.P. Morgan SE \u2013 Brussels Branch",
+    "short_name": "J.P. Morgan SE \u2013 Brussels Branch"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
+    "bic": "HOMNBEB1",
+    "bank_code": "948",
+    "name": "Mastercard Transaction Services (Europe) NV/SA",
+    "short_name": "Mastercard Transaction Services (Europe) NV/SA"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "HSBCBEBB",
     "bank_code": "949",
-    "name": "HSBC France Belgian Branch",
-    "short_name": "HSBC France Belgian Branch"
+    "name": "HSBC Continental Europe Belgium",
+    "short_name": "HSBC Continental Europe Belgium"
   },
   {
     "country_code": "BE",
@@ -6124,24 +6108,24 @@
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "963",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "NEECBEB2",
-    "bank_code": "966",
-    "name": "NewB",
-    "short_name": "NewB"
+    "bic": "FPEBBEB2",
+    "bank_code": "964",
+    "name": "FINANCIERE DES PAIEMENTS ELECTRONIQUES SAS - NICKEL BELGIUM",
+    "short_name": "FINANCIERE DES PAIEMENTS ELECTRONIQUES SAS - NICKEL BELGIUM"
   },
   {
     "country_code": "BE",
     "primary": true,
     "bic": "TRWIBEB1",
     "bank_code": "967",
-    "name": "TransferWise",
-    "short_name": "TransferWise"
+    "name": "Wise Europe SA",
+    "short_name": "Wise Europe SA"
   },
   {
     "country_code": "BE",
@@ -6156,8 +6140,8 @@
     "primary": true,
     "bic": "PUILBEBB",
     "bank_code": "969",
-    "name": "Puilaetco Dewaay Private Bankers",
-    "short_name": "Puilaetco Dewaay Private Bankers"
+    "name": "Puilaetco Branch of Quintet Private Bank SA",
+    "short_name": "Puilaetco Branch of Quintet Private Bank SA"
   },
   {
     "country_code": "BE",
@@ -6188,8 +6172,8 @@
     "primary": true,
     "bic": "AXABBE22",
     "bank_code": "975",
-    "name": "AXA Bank Belgium",
-    "short_name": "AXA Bank Belgium"
+    "name": "Crelan",
+    "short_name": "Crelan"
   },
   {
     "country_code": "BE",
@@ -6198,6 +6182,14 @@
     "bank_code": "976",
     "name": "ING Belgi\u00eb",
     "short_name": "ING Belgi\u00eb"
+  },
+  {
+    "country_code": "BE",
+    "primary": true,
+    "bic": "PAYVBEB2",
+    "bank_code": "977",
+    "name": "Paynovate",
+    "short_name": "Paynovate"
   },
   {
     "country_code": "BE",
@@ -6254,37 +6246,5 @@
     "bank_code": "984",
     "name": "bpost",
     "short_name": "bpost"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "BPOTBEB1",
-    "bank_code": "985",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "BPOTBEB1",
-    "bank_code": "986",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "BPOTBEB1",
-    "bank_code": "987",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
-  },
-  {
-    "country_code": "BE",
-    "primary": true,
-    "bic": "BPOTBEB1",
-    "bank_code": "988",
-    "name": "bpost bank",
-    "short_name": "bpost bank"
   }
 ]
