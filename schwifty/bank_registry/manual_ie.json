@@ -206,5 +206,13 @@
     "name": "SumUp Limited",
     "short_name": "SumUp",
     "primary": true
+  },
+    {
+    "country_code": "IE",
+    "bic": "HSBCIE2DXXX",
+    "bank_code": "990231",
+    "name": "HSBC Bank plc",
+    "short_name": "HSBC Europe",
+    "primary": true
   }
 ]
