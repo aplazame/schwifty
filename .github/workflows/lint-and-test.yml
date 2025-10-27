@@ -86,7 +86,7 @@ jobs:
         uses: pypa/hatch@install
 
       - name: Download coverage data
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v6
         with:
           pattern: coverage-*
           merge-multiple: true
