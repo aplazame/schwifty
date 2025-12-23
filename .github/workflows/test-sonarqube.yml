@@ -1,0 +1,16 @@
+name: CI Terraform
+
+on:
+  push:
+    branches:
+      - '**'
+env:
+  FOLDER: "dist"
+  foldersCache: "vendor/"
+
+jobs:
+  test-sonarqube:
+    name: Test SonarQube Scan
+    uses: aplazame/.github/.github/workflows/test-reusable-sonarqube.yml@master
+    secrets: 
+      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
