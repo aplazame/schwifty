@@ -1,6 +1,7 @@
-name: CI Terraform
+name: Scan SonarQube
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - '**'
