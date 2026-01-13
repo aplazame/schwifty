@@ -11,6 +11,6 @@ env:
 jobs:
   test-sonarqube:
     name: Test SonarQube Scan
-    uses: .github/workflows/test-reusable-sonarqube.yml
+    uses: .github/reusable_workflow/test-reusable-sonarqube.yml
     secrets: 
       SONAR_TOKEN: ${{ secrets.WZ_SONAR_TOKEN }}
