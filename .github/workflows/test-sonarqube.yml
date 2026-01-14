@@ -8,6 +8,8 @@ env:
   FOLDER: "dist"
   foldersCache: "vendor/"
 
+permissions:
+  contents: read
 jobs:
   test-sonarqube:
     name: Test SonarQube Scan
