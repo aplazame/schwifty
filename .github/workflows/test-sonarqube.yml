@@ -1,0 +1,20 @@
+name: Scan SonarQube
+
+on:
+  push:
+    branches:
+      - '**'
+env:
+  FOLDER: "dist"
+  foldersCache: "vendor/"
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  test-sonarqube:
+    name: Test SonarQube Scan
+    uses: ./.github/workflows/reusable-test-sonarqube.yml
+    secrets: 
+      SONAR_TOKEN: ${{ secrets.WZ_SONAR_TOKEN }}
