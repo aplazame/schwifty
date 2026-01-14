@@ -10,10 +10,11 @@ env:
 
 permissions:
   contents: read
+  id-token: write
+
 jobs:
   test-sonarqube:
     name: Test SonarQube Scan
     uses: ./.github/workflows/reusable-test-sonarqube.yml
     secrets: 
       SONAR_TOKEN: ${{ secrets.WZ_SONAR_TOKEN }}
-#
