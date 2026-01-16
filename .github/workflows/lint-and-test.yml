@@ -97,7 +97,7 @@ jobs:
       - name: Export coverage reports
         run: hatch run coverage:xml
 
-      - uses: codecov/codecov-action@v4
+      - uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
 
